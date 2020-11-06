@@ -1,3 +1,2 @@
+web: flask create_table
 web: gunicorn wsgi:app
-
-flask create_table
