@@ -1,2 +1,2 @@
-worker: flask create_table
+worker: flask create_tables
 web: gunicorn wsgi:app
